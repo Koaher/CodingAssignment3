@@ -144,7 +144,4 @@ hr {
   color: #12303d;
 }
 
-/* ---------- Small screens ---------- */
-@media (max-width: 700px) {
-  .wrapper { flex-direction: column; }
-}
+
